@@ -1,0 +1,82 @@
+
+* {
+    box-sizing: border-box;
+  }
+
+
+
+#box{
+    border-top:solid black 4px ;
+border-right:solid black 4px;
+border-left:solid black 4px;
+border-bottom:solid black 4px;
+margin: 0px auto;
+width: 50%;
+background-color:rgb(74, 63, 147);
+
+}
+#habilidades{
+   
+    margin: 2px;
+    border-top:solid black 4px ;
+    border-right:solid black 4px;
+    border-left:solid black 4px;
+    border-bottom:solid black 4px;
+    width: 99.4%;
+}
+#datos{
+   
+    width: 99.4%;
+    border-top:solid black 4px ;
+    border-right:solid black 4px;
+    border-left:solid black 4px;
+    border-bottom:solid black 4px;
+    margin: 2px;
+}
+#encabezado{
+  
+    width: 99.4%;
+    border-top:solid black 4px ;
+    border-right:solid black 4px;
+    border-left:solid black 4px;
+    border-bottom:solid black 4px;
+margin: 2px;
+}
+
+
+#formacion{
+    width: 99.4%;
+    border-top:solid black 4px ;
+    border-right:solid black 4px;
+    border-left:solid black 4px;
+    border-bottom:solid black 4px;
+    margin: 2px;
+}
+#experiencia{
+    
+    width: 99.4%;
+  border-top:solid black 4px ;
+  border-right:solid black 4px;
+  border-left:solid black 4px;
+  border-bottom:solid black 4px;
+  margin: 2px;
+}
+#idiomas{
+    width: 99.4%;
+    
+    border-top:solid black 4px ;
+    border-right:solid black 4px;
+    border-left:solid black 4px;
+    border-bottom:solid black 4px;
+    margin: 2px;
+}
+
+#boton{
+    border: solid black;
+}
+#boton2{
+    border: solid black;
+}
+#boton3{
+    border: solid black;
+}
